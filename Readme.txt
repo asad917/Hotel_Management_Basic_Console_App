@@ -1,6 +1,7 @@
 Hotel Management System 
 By 
 Asad Sarwar
+Semester-I Project
 --------------------------------------------
 Details:
 This program consists of a console application. It contains instructions of data entry at 
